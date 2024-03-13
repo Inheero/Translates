@@ -1,0 +1,53 @@
+itemGroup.solarfluxreboottab=Солнечный поток: перезагрузка
+
+item.mirror.name=Зеркало
+
+item.photovoltaic_cell.1.name=Фотоэлектрический элемент I
+item.photovoltaic_cell.2.name=Фотоэлектрический элемент II
+item.photovoltaic_cell.3.name=Фотоэлектрический элемент III
+item.photovoltaic_cell.4.name=Фотоэлектрический элемент IV
+item.photovoltaic_cell.5.name=Фотоэлектрический элемент V
+item.photovoltaic_cell.6.name=Фотоэлектрический элемент VI
+item.photovoltaic_cell.7.name=Мана фотоэлектрический элемент 
+item.photovoltaic_cell.8.name=Элементный фотоэлектрический элемент
+item.photovoltaic_cell.9.name=Террастальной фотоэлектрический элемент
+
+item.chaotic_energy_core.name=Хаотическое энергетическое ядро
+
+item.villager_disk.name=Музыкальный диск
+item.record.SolarFluxReboot:villager.nose.desc=§§неизвестно §7- Музыка для носа
+
+tile.solar_panel_1.name=Солнечная панель I
+tile.solar_panel_2.name=Солнечная панель II
+tile.solar_panel_3.name=Солнечная панель III
+tile.solar_panel_4.name=Солнечная панель IV
+tile.solar_panel_5.name=Солнечная панель V
+tile.solar_panel_6.name=Солнечная панель VI
+tile.solar_panel_7.name=Солнечная панель VII
+tile.solar_panel_8.name=Солнечная панель VIII
+
+tile.solar_panel_9.name=Солнечная панель Виверны
+tile.solar_panel_10.name=Драконья солнечная панель
+tile.solar_panel_11.name=Хаотичная солнечная панель
+
+tile.solar_panel_12.name=Нейтрониевая солнечная панель
+tile.solar_panel_13.name=Солнечная панель бесконечности
+
+tile.solar_panel_14.name=Манастальная солнечная панель
+tile.solar_panel_15.name=Элементиевая солнечная панель
+tile.solar_panel_16.name=Террастальная солнечная панель
+
+achievement.SolarFluxReboot:ecologist=Эколог
+achievement.SolarFluxReboot:ecologist.desc=Создайте свою первую солнечную панель
+
+achievement.SolarFluxReboot:wyvern_power=Сила виверны
+achievement.SolarFluxReboot:wyvern_power.desc=Создайте солнечную панель виверны
+achievement.SolarFluxReboot:draconic_power=Драконья сила
+achievement.SolarFluxReboot:draconic_power.desc=Создайте драконью солнечную панель
+achievement.SolarFluxReboot:chaotic_power=Хаотическая сила	
+achievement.SolarFluxReboot:chaotic_power.desc=Создайте хаотичную солнечную панель
+
+achievement.SolarFluxReboot:neutronium_power=Мощность нейтрония
+achievement.SolarFluxReboot:neutronium_power.desc=Создайте нейтронную солнечную панель
+achievement.SolarFluxReboot:infinity_power=Бесконечная сила
+achievement.SolarFluxReboot:infinity_power.desc=Ты - легенда.
