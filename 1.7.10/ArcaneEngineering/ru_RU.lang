@@ -1,0 +1,66 @@
+﻿# Items
+item.ArcaneEngineering.drillhead.thaumium.name=Таумовый шнек бура
+item.ArcaneEngineering.drillhead.void.name=Пустотный шнек бура
+item.ArcaneEngineering.impulse_boots.name=Импульсные ботинки
+item.ArcaneEngineering.wandupgrade.capacitor.name=Конденсатор Вис
+item.ArcaneEngineering.wandupgrade.charger.name=Кристалльный зарядник
+item.ArcaneEngineering.wandupgrade.energizer.name=Фокусатор энергии
+item.ArcaneEngineering.wandcap.electrum.name=Электрумовый наконечник
+item.ArcaneEngineering.wandcap.steel.name=Стальной наконечник
+
+
+# Tiles
+tile.ArcaneEngineering.destabilizer.name=Дестабилизатор Ноды
+
+# Research
+tc.research_category.ARCANEENGINEERING=Иммерсивная Таумотургия
+# Formatting:
+# §l 	Bold
+# §m 	Strikethrough
+# §n 	Underline
+# §o 	Italic
+# §r 	Reset
+# <BR>  LineBreak
+# <LINE>Fancy LineBreak
+ArcaneEngineering.research_name.MAGITECH=Тауммерсив-технологии
+ArcaneEngineering.research_text.MAGITECH="Аналитический подход к магии делает ее неотличимой от науки!"
+ArcaneEngineering.research_page.MAGITECH.1=Независимо от того, как много у вас маны, иногда технология может достичь того, что невозможно с чистой магией. Сочетание чародейства и технологии может обеспечить лучшее из обоих миров, и дать беспрецедентную власть, которая почему-то считается табу среди многих тауматургов.
+ArcaneEngineering.research_name.NODEDESTABILIZER=Дестабилизатор Ноды
+ArcaneEngineering.research_text.NODEDESTABILIZER=Ты делаешь меня голодным...
+ArcaneEngineering.research_page.NODEDESTABILIZER=После изучения Дестабилизатора Нод, вы задавались вопросом, как еще можно повлиять на узлы. После нескольких попыток, вы создали Дестабилизатор, который потребляет RF, и превращает узел в голодный. <Br>Вход мощности внизу, и он должен быть размещен непосредственно под узлом.
+ArcaneEngineering.research_name.DRILLTHAUMIUM=Таумовый шнек бура
+ArcaneEngineering.research_text.DRILLTHAUMIUM=Как железный, но с искорками
+ArcaneEngineering.research_page.DRILLTHAUMIUM=После обнаружения силы таум-кирки, вы решили попытаться использовать таум в более продвинутом шахтерстве. Вы закончили с таум-шнеком для бура, чьи параметры между железным и стальным.
+ArcaneEngineering.research_name.DRILLVOID=Пустотный шнек бура
+ArcaneEngineering.research_text.DRILLVOID=Умножаем на ноль!
+ArcaneEngineering.research_page.DRILLVOID=Соединив железный шнек с семенем пустоты, вы получаете Пустотный шнек! Этот шнек, как и прочие пустотные предметы, самовосстанавливается со временем, и фактически вечный. Параметры немного лучше, чем у стального.
+ArcaneEngineering.research_name.ROD_upgradeable=Обработанное дерево для посоха
+ArcaneEngineering.research_text.ROD_upgradeable=Смазки много не бывает!
+ArcaneEngineering.research_page.ROD_upgradeable=Пропитанное креозотом дерево - отличный материал для инженера! Так же, оно лучше хранит вис, нежели привычные деревяшки, возможность хранить 30 вис. При размещении в верстаке инженера, посохи из такого дерева получают два слота апгрейда, которые еще более увеличивают их силу. Количество слотов апгрейда можно как-то увеличить, но сначала вы должны исследовать улучшения для палочки.
+ArcaneEngineering.research_name.CAP_steel=Стальной наконечник
+ArcaneEngineering.research_text.CAP_steel=Можно колоть орехи
+ArcaneEngineering.research_page.CAP_steel=Если железо можно использовать для посоха, то почему бы и не сталь? Сталь по своей сути является более упорядоченной, чем железо, поэтому наконечники из нее получают небольшой штраф к хранению вис. Однако, это дает еще два слота апгрейда.
+ArcaneEngineering.research_name.CAP_electrum=Электрумовый колпачок
+ArcaneEngineering.research_text.CAP_electrum=Для нерешительных
+ArcaneEngineering.research_page.CAP_electrum=Существует так много металлов для крафта наконечников. Слишком много, на самом деле, для некоторых тауматургов. Если Вы не можете выбрать между серебром и золотом, почему бы не использовать электрум? Или если Вы не можете решить, что лучше - апгрейды или вис, выберите электрум. К вашим услугам 95% скидка на вис и добавляет дополнительный слот апгрейда.
+ArcaneEngineering.research_name.CAPACITOR=Конденсатор вис
+ArcaneEngineering.research_text.CAPACITOR=Вызывает-ли вис клаустрофобию?
+ArcaneEngineering.research_page.CAPACITOR=Кажется, что виспы и узлы чем то похожи? При исследовании их, вы обнаружили, что вы можете хранить ВИС в эссенции виспа. Открытие, которое дало вам вис-кондесатор: апгрейд палочки, которые повышает емкость вис. Можно применять к палочкам из обработанной древесины в верстаке инженера. Эффект складывается при апгрейдах.
+ArcaneEngineering.research_name.CHARGER=Кристалльный зарядник
+ArcaneEngineering.research_text.CHARGER="РАЗРЯД!"
+ArcaneEngineering.research_page.CHARGER=Кристаллы таума имеют глубокую связ с Аурой. Инженеры таума обнаружили, что кристаллы впитывают вис прямо из ауры для своего роста. Используя это свойство, вы смогли добиться получения вис напрямую из рассеяной ауры, а не из узлов. Апгрейд применяется на палочку обработанного дерева в верстаке инженера. Эффект складывается при апгрейдах.
+ArcaneEngineering.research_name.ENERGIZER=Фокусатор энергии
+ArcaneEngineering.research_text.ENERGIZER=Кролика в комплекте нет
+ArcaneEngineering.research_page.ENERGIZER=Изучив сингулярную жемчужину, вы немного узнали о первородной энергии. Применив эти знания, вы изобрели улучшение палочки, которое повышает уровень силы любого используемого набалдашника. Апгрейд применяется на палочку обработанного дерева в верстаке инженера.
+ArcaneEngineering.research_name.IMPULSEBOOTS=Импульсные ботинки
+ArcaneEngineering.research_text.IMPULSEBOOTS=Парю где хочу! Законом не запрещено!
+ArcaneEngineering.research_page.IMPULSEBOOTS=Биодизельное топливо имеет много применений. Например, в ракетных ботинках! Для взлета удерживайте прыжок, а так же можно парить в воздухе. Спринт клавиша может быть использована для ускорения полета. Сапоги уменьшат урон от падения, если вы притормозите при посадке.
+
+
+#Wand
+item.Wand.upgradeable.rod=обработанной древесины
+item.Wand.steel.cap=Усиленный сталью
+item.Wand.electrum.cap=Запаянный электрумом
+
+# Creative
+itemGroup.arcaneengineering=Arcane Engineering
